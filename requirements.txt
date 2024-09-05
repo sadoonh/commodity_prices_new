@@ -1,0 +1,10 @@
+streamlit==1.25.0
+feedparser==6.0.10
+pandas==2.1.1
+vaderSentiment==3.3.2
+yfinance==0.2.31
+plotly==5.16.1
+tensorflow==2.13.0
+tabula-py==2.7.0
+numpy==1.25.2
+scikit-learn==1.3.2
